@@ -1,5 +1,6 @@
 import PropTypes from "prop-types";
 import styles from "./statistics.module.css";
+
 export default function Statistics({ title, stats }) {
   return (
     <section className={styles.statistics}>

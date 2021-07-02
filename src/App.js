@@ -8,7 +8,7 @@ import Profile from "./components/profile/profile";
 import Statistics from "./components/statistics/statistics";
 import FriendList from "./components/friendList/friendList";
 import TransactionHistory from "./components/transactionsHistory/transactions";
-
+//
 export default function App() {
   return (
     <div>
